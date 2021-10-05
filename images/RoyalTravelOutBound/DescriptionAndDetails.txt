@@ -1,0 +1,12 @@
+Royal Mount Travel - KPI
+
+Whose: Royal Mount
+Location: Nepal
+Description: This project's admin and employee panel is handled by us. 
+			 We designed and developed all the business logic into web application.
+			 A complete travel and tours management is done in this project. 
+My Role: Designing pages and working with angularJs
+Technology: 
+	BackEnd : .Net
+	FrontEnd: AngularJs, HTML, CSS
+	DataBase: SQLEXPRESS

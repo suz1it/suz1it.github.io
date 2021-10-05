@@ -1,0 +1,10 @@
+Key Performance Indicator - KPI
+
+Whose: Mark Carrette
+Location: Canada
+Description: We Write the code for the function requirement that is being asked by the client and deliver the product.
+			 The sample project is being handled by us which after completion a module is being copied to their main project.
+Technology: 
+	BackEnd : .Net
+	FrontEnd: Angular 6, HTML, CSS, KendoGrid, Modules
+	DataBase: SQLEXPRESS
